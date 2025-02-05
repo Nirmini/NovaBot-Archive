@@ -2,8 +2,8 @@ const { REST, Routes } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
 
-const clientId = '1284392840645836822'; // Your client ID
-const token = 'MTI4NDM5Mjg0MDY0NTgzNjgyMg.Gzp_T2.LLa2z2CEFJkptE5z6JinoIk8myYUVjloJ0adDw'; // Your bot token
+const clientId = process.env.ClientId; // Your client ID
+const token = process.env.Discord_Token; // Your bot token
 
 const commandsPath = path.join(__dirname, '..', 'commands'); // Adjust path to point to ../commands
 console.log('Commands directory path:', commandsPath); // Log the path for verification
