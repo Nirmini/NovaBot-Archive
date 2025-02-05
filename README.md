@@ -1,4 +1,4 @@
-# MultiBot-Dev
+# MultiBot-Dev - [[V22 Indev Archive]]
 ---
-## This is the 22.1 alpha of Multi for QHDT Developers.
-### Misuse of access to this can lead to having access revoked.
+## This is the 22.1 alpha of Nova for Nirmini Development Staff.
+### This code is fine to use, credit is preferred.
