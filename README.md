@@ -2,3 +2,5 @@
 ---
 ## This is a branch/fork of the NDT's Nova Discord bot. For more up-to-date features please use the official bot.
 ### Code is provided under an MIT license with credits not being required but encouraged.
+
+Nova will be going Open-Source with Version 43.0.0. Once that occurs this repo will be archived.
